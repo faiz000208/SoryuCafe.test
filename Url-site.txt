@@ -1,0 +1,5 @@
+Main Page : 
+http://localhost/TestSoryuCafe/index.php
+
+Admin :
+http://localhost/TestSoryuCafe/admin/login.php
